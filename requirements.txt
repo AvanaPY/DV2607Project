@@ -29,7 +29,6 @@ Pillow==9.3.0
 pooch==1.6.0
 pycparser==2.21
 pyparsing==3.0.9
-PyQt5==5.15.7
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.11.0
 python-dateutil==2.8.2
@@ -48,4 +47,4 @@ tqdm==4.64.1
 transformers==4.24.0
 typing_extensions==4.4.0
 urllib3==1.26.12
-git+https://github.com/AvanaPY/DV2607Whisper.git
+whisper==1.0
