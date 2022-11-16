@@ -6,9 +6,9 @@ import librosa.display
 import numpy as np
 from scipy.io.wavfile import write
 
-graphpng = "mygraph.png"
-audio_file = "qtpie.mp3"
-model_name = "medium"
+graphpng = "mygraph.png"        # The file name of the Log-Mel spetrogram image to write to
+audio_file = "qtpie.mp3"        # The file name of the audio file to play
+model_name = "medium"           # Which model to use, see below and https://github.com/openai/whisper for more information
 #   tiny, 
 #   base, 
 #   small, 
