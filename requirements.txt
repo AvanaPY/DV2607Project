@@ -48,3 +48,4 @@ transformers==4.24.0
 typing_extensions==4.4.0
 urllib3==1.26.12
 whisper==1.0
+git+https://github.com/AvanaPY/DV2607Whisper.git@v1.0.0
