@@ -1,0 +1,7 @@
+build
+dist
+env
+whisper
+whisper*
+*.mp3
+*.png
